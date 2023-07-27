@@ -46,7 +46,7 @@ The response variable (how much Vitamin C) is numerical; The input variable is c
 plot(Cult~VitC,data=veggy)
 ```
 
-The graphical results show that when Cultivation techniques move from c52 to c39 we can see a large increase in Vitamin C content within the cabbages, going from a Vitamin C content of 45 up towards 75.
+The graphical results show that when Cultivation techniques move from c52 to c39 we can see a large increase in Vitamin C content within the cabbages, going from a Vitamin C content of forty-five up towards seventy-five. There is a significant difference between the two different cultivation techniques and they drastically affect the Vitamin C content within the cabbages.
 
 ### Numerical Descriptive Results
 
@@ -55,6 +55,8 @@ The graphical results show that when Cultivation techniques move from c52 to c39
 ```{r}
 favstats(momheight~Sex,data=ucdavis1)
 ```
+
+The numerical results show how for the Cultivation technique c41
 
 ## Inferential Results
 
