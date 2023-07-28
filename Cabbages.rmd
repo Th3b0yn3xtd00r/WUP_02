@@ -71,3 +71,5 @@ According to the Inferential results we can see that the p-value of 0000000.3405
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+According to the report we are asking, Is there a difference in the Vitamin C content in cabbages based on cultivation techniques? In our report we found that there is a significant difference within the Vitamin C content in cabbages. The cultivation technique c39 carries a Vitamin C content of fifty-two while the technique c52 carries a Vitamin C content of sixty-four within the cabbages. We can also see that the p-value of 0000000.3405 is so small we are forced to reject the null hypothesis. 95 percent of the time when repeating this report we found that the difference in means of the Vitamin C content within the cabbages is between -16.94296 and -8.85704.
