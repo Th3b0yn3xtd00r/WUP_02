@@ -66,7 +66,7 @@ According to the numerical results they show how for the Cultivation technique c
 t.test(VitC~Cult,data=veggy)
 ```
 
-i
+According to the Inferential results we can see that the p-value of 0000000.3405 is so small we are forced to reject the null hypothesis. 95 percent of the time when repeating this we found that the difference in means of the Vitamin C content within the cabbages is between -16.94296 and -8.85704. The mean of the Vitamin C content for c39 is fifty-two while the cultivation technique for c52 is sixty-four. Making a significant difference between the two techniques.
 
 # Discussion and Conclusion
 
